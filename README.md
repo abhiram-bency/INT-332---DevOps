@@ -18,6 +18,17 @@ The repository is organized to cover both theoretical concepts and practical und
 
 ## Contents
 
+Folder Structure
+
+Each week has a dedicated folder containing the corresponding notes and task solutions:
+
+Week-1/
+Week-2/
+Week-3/
+Week-4/
+Week-5/
+Week-6/
+
 ### Unit 1: Basics of DevOps Infrastructure
 
 Topics covered:
